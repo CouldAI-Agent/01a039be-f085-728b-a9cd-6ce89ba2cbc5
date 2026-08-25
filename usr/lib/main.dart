@@ -223,7 +223,7 @@ class _SnakeGameScreenState extends State<SnakeGameScreen> {
                                 ),
                               if (gameOver)
                                 Container(
-                                  color: Colors.black88,
+                                  color: Colors.black87,
                                   child: Center(
                                     child: Column(
                                       mainAxisSize: MainAxisSize.min,
